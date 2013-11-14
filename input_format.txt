@@ -1,0 +1,10 @@
+<No. of Variables> <No. of Constraints>
+
+<Min>
+In Max. Z eqn. : <coef. of first variable> <coef. of second variable> ...
+
+In first constraint : <coef. of first variable> <coef. of second variable> ... <constant> <symbol>
+In second constraint : <coef. of first variable> <coef. of second variable> ... <constant> <symbol>
+.
+.
+.
